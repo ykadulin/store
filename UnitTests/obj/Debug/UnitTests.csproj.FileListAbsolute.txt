@@ -1,0 +1,76 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Moq.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Moq.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Domain.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Moq.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Ninject.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\WebUI.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Domain.pdb
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Moq.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Ninject.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Администратор.WIN-EATHFH3HGVI\Desktop\Store\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
